@@ -14,7 +14,7 @@
           >
             <a
               class="flex items-center w-full h-12 px-3 mt-2 rounded text-gray-800 hover:bg-red-300 text-white"
-              href="/"
+              href="/simp"
             >
               <svg
                 class="h-5 w-5"
