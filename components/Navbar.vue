@@ -41,7 +41,7 @@
         </div>
         <a
           class="flex items-center justify-center w-full h-16 mt-auto bg-yellow-100 text-gray-800 hover:bg-red-300 text-white"
-          href="/profile"
+          href="//profile"
         >
           <svg
             class="w-6 h-6 stroke-current"
