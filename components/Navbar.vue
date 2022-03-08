@@ -14,7 +14,7 @@
           >
             <a
               class="flex items-center w-full h-12 px-3 mt-2 rounded text-gray-800 hover:bg-red-300 text-white"
-              href="/simp"
+              href="/"
             >
               <svg
                 class="h-5 w-5"
@@ -41,7 +41,7 @@
         </div>
         <a
           class="flex items-center justify-center w-full h-16 mt-auto bg-yellow-100 text-gray-800 hover:bg-red-300 text-white"
-          href="/simp/profile/"
+          href="/profile"
         >
           <svg
             class="w-6 h-6 stroke-current"
