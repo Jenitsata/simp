@@ -12,7 +12,7 @@
         <div class="max-w-xl mb-5 md:mx-auto sm:text-center lg:max-w-2xl">
           <div class="mb-4">
             <a
-              href="jenitsata.github.io/simp/"
+              href="/simp"
               aria-label="Article"
               class="inline-block max-w-lg font-sans text-3xl font-extrabold leading-none tracking-tight text-black transition-colors duration-200 hover:text-deep-purple-accent-700 sm:text-4xl"
             >
